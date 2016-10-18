@@ -1,0 +1,14 @@
+f6a657e0cb66eb4247ca1449cd26785f *DESCRIPTION
+0a01d062b6f14254ee0ac44fab3620aa *NAMESPACE
+90f8fd0465a99b05b0c9f8b1fa04f68b *R/FTIR.R
+fae11c0ae108d7eca3a9cef4d3e30b27 *R/XRD.R
+115d5ae43dba787944b5df90e2539262 *R/crcal.R
+dd99bd73e2e80cc14786dfb960a86343 *data/FTIR.rda
+f58a343f9166edfc31e282e0926d0198 *data/XRD.rda
+18bd5e58bfc5ff34ba703d2e3ecef822 *man/FTIR.Rd
+c5963712724576cc82ecf392ecd57d0b *man/XRD.Rd
+394c411e8354788c8e0a03a86a852003 *man/crystMW.Rd
+483a8c504b5e6be7dfef5e61434de094 *man/crystSG.Rd
+7ec157ae3e9bc1bed9e2f92d1f1d3d38 *man/fitFTIRc.Rd
+2e2ae53e4483ee2a8bafc93e01a25493 *man/ftirplot.Rd
+fc02745e6dbad1e1a0b566706969695f *man/xrdplot.Rd
